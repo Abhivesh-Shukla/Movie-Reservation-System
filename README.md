@@ -26,13 +26,13 @@ The Movie Ticket Reservation System is a Java-based application designed to stre
 
 1. **Clone the repository**:
     ```sh
-    git clone https://github.com/your-repository-url.git
-    cd movie-ticket-reservation-system
+    git clone https://github.com/your-repository-url.git https://github.com/Abhivesh-Shukla/Movie-Reservation-System.git
+    cd Movie-Reservation-System
     ```
 
 2. **Setup Database**:
     - Install MySQL and create a database named `movie_ticket_system`.
-    - Import the database schema from the `schema.sql` file located in the `db` directory.
+    - Import the database schema from the `abc.sql`.
 
 3. **Configure Database Connection**:
     - Update the database connection details in the `application.properties` file located in the `src/main/resources` directory.
@@ -56,3 +56,9 @@ The Movie Ticket Reservation System is a Java-based application designed to stre
 - **Make Payment**: Proceed to the payment gateway to complete the transaction securely.
 - **View Booking History**: Access and manage previous bookings from the user's profile section.
 
+## Results
+
+- **User Experience**: The system was tested for user experience and received positive feedback for its intuitive design and ease of use.
+- **Performance**: The application performed efficiently under various test scenarios, handling multiple simultaneous bookings without any noticeable lag.
+- **Security**: The integration with secure payment gateways ensured safe and secure transactions for users.
+- **Scalability**: The system demonstrated good scalability, capable of handling increased load with minimal performance degradation.
