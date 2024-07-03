@@ -1,7 +1,5 @@
 ## MOVIE RESERVATION SYSTEM
 
-## Project Overview
-
 The Movie Ticket Reservation System is a Java-based application designed to streamline the process of booking movie tickets. The system allows users to browse movies, view showtimes, select seats, and securely reserve tickets from their devices. The project leverages Java's robust and scalable nature to provide a seamless user experience.
 
 ## Key Features
