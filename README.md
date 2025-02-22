@@ -59,4 +59,4 @@ The Movie Ticket Reservation System is a Java-based application designed to stre
 - **User Experience**: The system was tested for user experience and received positive feedback for its intuitive design and ease of use.
 - **Performance**: The application performed efficiently under various test scenarios, handling multiple simultaneous bookings without any noticeable lag.
 - **Security**: The integration with secure payment gateways ensured safe and secure transactions for users.
-- **Scalability**: The system demonstrated good scalability, capable of handling increased load with minimal performance degradation.
+- **Scalability**: The system demonstrated good scalability and capable of handling increased load with minimal performance degradation.
